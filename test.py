@@ -1,6 +1,7 @@
 import locale
 from dialog import Dialog
 import os
+import argparse
 
 Version = 1.0
 # This is almost always a good thing to do at the beginning of your programs.
